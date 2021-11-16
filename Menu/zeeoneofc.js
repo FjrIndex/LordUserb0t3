@@ -7,7 +7,7 @@ return`Hello ${pushname}🤗
 🎁 Expired Prem : ${isOwner?`Unlimited Owner`:isPrem ? `${cekvipp.days}d, ${cekvipp.hours}h, ${cekvipp.minutes}m, ${cekvipp.seconds}s`:'Not Premium'}
 💳 Limit : ${isOwner?`Unlimited`: isPrem ? `Unlimited Premium` : getLimit(sender, limitawal, limit) +' / '+limitawal}
 💹 Balance : $${getBalance(sender, balance)}
-jangan lupa follow ig Ruka\nruka.nime7
+*jangan lupa follow ig Ruka* \n *ruka.nime7*
 
 
 *Owner Menu*${petik}
